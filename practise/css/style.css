@@ -102,7 +102,7 @@ a { text-decoration: none; }
 .hero {
     min-height: 92vh; color: var(--white);
     background: linear-gradient(100deg, rgba(11, 24, 48, 0.90), rgba(11, 24, 48, 0.55), rgba(11, 24, 48, 0.18)),
-        url("https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1600") center/cover no-repeat;
+        url("../images/hotel-exterior.jpg") center/cover no-repeat;
 }
 .hero-title {
     margin: 20px 0 22px; font-size: 60px;
@@ -333,7 +333,7 @@ a { text-decoration: none; }
 .offer {
     padding: 110px 0; color: var(--white);
     background: linear-gradient(110deg, rgba(11, 24, 48, 0.92), rgba(11, 24, 48, 0.55)),
-        url("https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=1600") center/cover fixed;
+        url("../images/classic-room.jpg") center/cover fixed;
 }
 .offer-badge {
     display: inline-flex; align-items: center;
